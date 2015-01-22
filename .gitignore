@@ -1,3 +1,5 @@
 sailfish/*
 *.pyc
 *.npz
+ex*.py
+*.subdomains
